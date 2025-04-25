@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "actions": [],
+    "visibility": "public",
+    "icon": {
+        "dark": "/static/libris/stroke.webp",
+        "light": "/static/libris/stroke.dark.webp"
+    },
+    "favicon": "/static/libris/favicon.ico1"
+}
